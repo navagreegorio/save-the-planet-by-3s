@@ -2,7 +2,7 @@
 
 ## Summary
 
-**AI tools were used by our mentors (Paola and Edson) as a technical assistant during development.** The three students (Sol, Sofía, Sara) wrote all video scripts, performed all user testing, conducted the 31-neighbour survey and the 10-family pilot, and made every design decision about the app. AI was used as a learning accelerator for the mentor's technical guidance, not as a replacement for student work.
+**AI tools were used by mentors (Paola and Edson) as a technical assistant during development.** The three students (Sol, Sofía, Sara) wrote all video scripts, performed all user testing, conducted the 31-neighbour survey and the 10-family pilot, and made every design decision about the app. AI was used as a learning accelerator for the mentor's technical guidance, not as a replacement for student work.
 
 This disclosure is provided per the 2026 Technovation requirement for AI transparency.
 
